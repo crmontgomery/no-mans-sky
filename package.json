@@ -1,0 +1,17 @@
+{
+  "name": "no-mans-sky",
+  "version": "0.0.1-Alpha",
+  "description": "An application to manage resources for crafting.",
+  "author": "Corey R. Montgomery",
+  "license": "ISC",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
